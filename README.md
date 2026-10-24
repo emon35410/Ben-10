@@ -44,7 +44,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/ben10-universe.git
+   git clone https://github.com/emon35410/Ben-10.git
    cd ben10-universe
    ```
 
