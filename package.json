@@ -1,0 +1,12 @@
+{
+  "name": "ben10-universe-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ben 10 Character Universe - Fan Encyclopedia and Research Database",
+  "scripts": {
+    "dev": "npm --prefix ben10-universe run dev",
+    "build": "npm --prefix ben10-universe run build",
+    "start": "npm --prefix ben10-universe run start",
+    "lint": "npm --prefix ben10-universe run lint"
+  }
+}
